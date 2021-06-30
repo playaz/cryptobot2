@@ -1,4 +1,4 @@
-# Crypto Bot
+# Crypto Bot2
 
 
 1. Rename .env.example to .env and configure the correct settings in this file.
